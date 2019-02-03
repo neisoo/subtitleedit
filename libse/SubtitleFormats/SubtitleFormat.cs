@@ -36,6 +36,7 @@ namespace Nikse.SubtitleEdit.Core.SubtitleFormats
                     new AdobeEncoreWithLineNumbersNtsc(),
                     new AdvancedSubStationAlpha(),
                     new AQTitle(),
+                    new Audacity(),
                     new AvidCaption(),
                     new AvidDvd(),
                     new BelleNuitSubtitler(),
